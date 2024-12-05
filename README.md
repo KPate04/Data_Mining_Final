@@ -1,7 +1,7 @@
 ## Fashion: An exploration of Random Forest and Logistic Regression Neural Networks for Image Classification
 This is an experimental project that will help to understand image classification and the best techniques to achieve accurate models. We will be comparing The Supervised Random Forest Machine Learning model and the Logistic Regreassion Neural Network.  This project outlines the initial steps and techniques such as: pre-processing, visualizations, storytelling, modeling, analysis, etc; to achieve an accurate image classification.
 
-## [Data](Data) 
+## [Data](data) 
 We are using the Fashion MNIST dataset as our data for testing the models and visualizations. The dataset is broken down into the different pixels, to a total of 784 pixels per image, that each image contains as the features + the label of each image represented in numbers by the following breakdown:
 0 T-shirt/top | 1 Trouser | 2 Pullover | 3 Dress | 4 Coat | 5 Sandal | 6 Shirt | 7 Sneaker | 8 Bag | 9 Ankle boot
 
